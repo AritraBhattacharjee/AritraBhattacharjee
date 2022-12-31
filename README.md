@@ -44,3 +44,9 @@
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<!-- 
+# Visitor Count 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AritraBhattacharjee/count.svg" />
+</p> -->
