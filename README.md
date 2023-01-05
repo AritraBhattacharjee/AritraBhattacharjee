@@ -43,11 +43,7 @@
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s  Guide to Git And GitHub](https://aritrablogs.hashnode.dev/a-beginners-guide-to-git-and-github)
-- [Deploy your React App in Minutes!](https://aritrablogs.hashnode.dev/deploy-your-react-app-in-minutes)
-- [Selecting a Good Text Editor](https://aritrablogs.hashnode.dev/selecting-a-good-text-editor)
-- [Installation of C](https://aritrablogs.hashnode.dev/installation-of-c)
-- [Introduction to C programming](https://aritrablogs.hashnode.dev/introduction-to-c-programming)
+
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 # Visitor Count 
